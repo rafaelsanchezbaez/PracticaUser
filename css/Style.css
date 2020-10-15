@@ -1,0 +1,18 @@
+/* .jumbotron{
+    background-color: #FFFFCC;
+    margin-top: 15px;
+    padding: 17px;
+    color: #990000;
+
+} */
+.jumbotron{
+    background-image: url(https://www.somosxbox.com/wp-content/uploads/2020/07/resident-evil-4-remake-in-works.jpg);
+    color: rgb(76, 212, 236);
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card>img{
+     height: 300px;
+}
